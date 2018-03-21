@@ -1,4 +1,4 @@
-# MIT 6.S191 Lab 2: Deep Learning for Computer Vision
+#  Deep Learning for Computer Vision
 <p align="center" >
   <img src=https://github.com/aamini/introtodeeplearning_labs/raw/master/lab2/img/pneumothorax.png />
 </p>
